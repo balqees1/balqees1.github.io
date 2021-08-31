@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![my picture](Some information about you!
+![my picture](https://github.com/balqees1/Images/blob/main/IMG-4212.JPG)
+Some information about you!
 
 ### More Information
 
