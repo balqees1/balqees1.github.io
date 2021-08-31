@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 ![my picture](https://github.com/balqees1/Images/blob/main/IMG-4212.JPG)
-Some information about you!
-
+I like statistics and I hate programming!
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
