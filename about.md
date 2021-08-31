@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-
+![alt text](https://github.com/balqees1/Images/blob/main/photo.JPG)
 
 I like statistics and I hate programming.
-![alt text](https://github.com/balqees1/Images/blob/main/photo.JPG)
+
 
 ### More Information
 
