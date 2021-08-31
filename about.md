@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![alt text](https://github.com/balqees1/balqees1.github.io/blob/master/Rizwana%20Picture.JPG?raw=true)
+![alt text](https://github.com/balqees1/balqees1.github.io/blob/master/Rizwana.jpg?raw=true)
 
 I like statistics and I hate programming.
 
