@@ -3,8 +3,7 @@ Programming Background
 Rizwana
 9/14/2021
 
-`{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE, eval =
-TRUE, figpath =
+`{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE, figpath =
 "C:/Users/User/Documents/ST558/blog2/balqees1.github.io/images")`
 
 ## SAS vs R
@@ -13,4 +12,4 @@ SAS is better than R \#\# Including Plots
 
 You can also embed plots, for example:
 
-`{r pressure, echo=FALSE} library(datasets) plot(iris)`
+`{r pressure, echo=FALSE,eval = TRUE} library(datasets) plot(iris)`
