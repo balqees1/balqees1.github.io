@@ -12,4 +12,4 @@ SAS is better than R \#\# Including Plots
 
 You can also embed plots, for example:
 
-`{r pressure, echo=FALSE} plot(pressure)`
+`{r pressure, echo=FALSE} library(datasets) plot(iris)`

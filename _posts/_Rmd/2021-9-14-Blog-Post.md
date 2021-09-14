@@ -17,6 +17,7 @@ SAS is better than R
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
-plot(pressure)
+library(datasets)
+plot(iris)
 ```
 
