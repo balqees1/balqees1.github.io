@@ -5,9 +5,7 @@ date: "9/14/2021"
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-knitr::opts_chunk$set(fig.path = ""C:/Users/User/Documents/ST558/blog2/balqees1.github.io/images")
-
+knitr::opts_chunk$set(fig.path = "C:/Users/User/Documents/ST558/blog2/balqees1.github.io/images")
 ```
 
 ## SAS vs R
